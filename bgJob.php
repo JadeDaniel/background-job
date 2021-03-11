@@ -1,6 +1,6 @@
 <?php
 
-namespace diversen;
+namespace jadedaniel;
 
 /**
  * Class that can execute a background job, and check if the

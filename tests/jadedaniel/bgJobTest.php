@@ -1,6 +1,6 @@
 <?php
 
-namespace diversen;
+namespace jadedaniel;
 
 use PHPUnit\Framework\TestCase;
 

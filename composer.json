@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "diversen\\": ""
+            "jadedaniel\\": ""
         }
     },
     "extra": {
